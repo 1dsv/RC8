@@ -1,17 +1,20 @@
-# RC8 - The new RC7
-Did you miss RC7? meet RC8 the updated version of RC7
-a whole new level of roblox executor and comes with a **brand new** UI (you can use the classic RC7 look or use the new RC8 looks)
+# RC8 - The new generation RC7
+a whole new level of roblox executor written in **python** yep you heard that its written in python!
 
-## 100% secure and undetected
-we 100% value our users privacy and experience
-## can run 99% of scripts
+
+## 100% undetected🔒
+yes! its fully undetected
+## a very powerful level 8 executorc💪
 RC8 can run almost every scripts available
-## comes with a ton of features
-RC8 will have features that other executor dont have, stay tuned for that
+## comes with a ton of features📃
+RC8 will have features that other executor dont have
+##  free💰
+yes RC8 is completely free for anyone!
 
-## Is it free?
-yes! you can use RC8 for free but there will be a key system and some features are **NOT** available
+what are you waiting for? try out RC8 for yourself for FREE
 
-# release date: ???👀
+# discord: coming soon.
 
-# The new king of executor coming soon.
+# The KING of executor.
+
+# DISCLAIMER: THIS IS NOT ASSOCIATED WITH THE OFFICIAL RC7.
