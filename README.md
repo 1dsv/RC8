@@ -1,4 +1,5 @@
 # RC8 - The new generation RC7
+after 1+ year of development we finally released RC8
 a whole new level of roblox executor written in **python** yep you heard that its written in python!
 
 
